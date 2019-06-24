@@ -2,7 +2,7 @@
 
 This package provides an easy and flexible way to handle long descriptions and paragraphs.
 
-Click here to see [DEMO](https://github.com/gaurav0207/vue2-read-more/dist/index.html)
+<!-- Click here to see [DEMO](https://github.com/gaurav0207/vue2-read-more/dist/index.html) -->
 
 ## Installation
 
