@@ -15,7 +15,7 @@ import Vue from 'vue'
 import readMore from 'vue2-read-more'
 Vue.use(readMore)
 ~~~~
-`click here to see the [DEMO](https://gaurav0207.github.io/vue2-read-more/dist/index)`
+
 ## Features
 * Add Read more with default string length (word limit: 5)
     ~~~~
