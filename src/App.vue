@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div>
-      <h2>Only Single String with default word limits 1</h2>
+      <h2>Only Single String with default word limits 5</h2>
       <readMore :moreString="moreWords"></readMore>
     </div>
     <div>

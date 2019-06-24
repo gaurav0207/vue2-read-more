@@ -1,6 +1,6 @@
 {
   "name": "vue2-read-more",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -59,5 +59,9 @@
     "Vue String Read More",
     "Read More",
     "Read less"
-  ]
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://gaurav0207.github.io/vue2-read-more"
+  }
 }
