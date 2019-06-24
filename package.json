@@ -1,11 +1,12 @@
 {
   "name": "vue2-read-more",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.10",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build-bundle": "vue-cli-service build --target lib --name vue2-read-more ./src/index.js "
   },
   "dependencies": {
     "core-js": "^2.6.5",
@@ -42,5 +43,21 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
+  ],
+  "main": "dist/vue2-read-more.common.js",
+  "files": [
+    "dist/*",
+    "src/*",
+    "public/*",
+    "*.json",
+    "*.js"
+  ],
+  "keywords": [
+    "Vue",
+    "Vue Read More",
+    "Read More",
+    "Vue String Read More",
+    "Read More",
+    "Read less"
   ]
 }
